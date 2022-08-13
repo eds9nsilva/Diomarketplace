@@ -30,7 +30,7 @@ export const Product = styled.View`
 
 export const ProductImage = styled.Image`
   width: 90%;
-  height: 220px;
+  height: 200px;
   align-self: center;
 `;
 
